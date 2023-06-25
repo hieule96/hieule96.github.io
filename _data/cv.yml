@@ -11,14 +11,24 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD Student in Image and Video Compression
+    - title: PhD in Image and Video Compression
       institution: Laboratoire I3S, Université Côte d'Azur
       year: 2021-2023
       description:
         - Develop a multiple descriptions coding solution based on the HEVC standard.
         - Evaluate the developed solution using the ns-3 network simulator within a 802.11 channel model.
         - Develop a new compression method based on Implicit Neural Network
-
+    - title: Diploma in Electrical Engineering (Equivalent to a Master's Degree)
+      institution: Polytech Nice Sophia
+      year: 2015-2020
+      description:
+        - Signal and Image Processing
+        - Electronic Circuit
+        - Embedded System Design
+    - title: French general Baccalauréat
+      institution: Jean de la Fontaine High School
+      year: 2012-2025
+      description:
 - title: Experience
   type: time_table
   contents:
@@ -32,7 +42,7 @@
         - Explore the performance of JPEG encoding using both hardware and software solutions.
         - Understand the software architecture of products within the enterprise.
         - Manage resource utilization in embedded systems.
-    - title: Summer Intern Recognition of the origin of fruits / vegetables
+    - title: Summer Intern-Recognition of the origin of fruits / vegetables
       institution: Da Nang University, Da Nang, Viet Nam
       year: 2019
       description:
@@ -43,6 +53,14 @@
         - Experiment with various machine learning algorithms.
         - Evaluate and analyze the results.
         - A preliminary machine learning prototype with 80% accuracy in detection.
+    - title: Research Assistant-LORA GPS Tracking
+      institution: Da Nang University, Da Nang, Viet Nam
+      year: 2018
+      description:
+        - Implement GPS communication using UART.
+        - Study LoRa wireless communication technology.
+        - Develop a prototype incorporating both technologies.
+
 - title: Honors and Awards
   type: time_table
   contents:
