@@ -4,14 +4,33 @@
       title={INR-MDSQC: Implicit Neural Representation Multiple Description Scalar Quantization for robust image Coding}, 
       author={Trung Hieu Le and Xavier Pic and Marc Antonini},
       year={2023},
+      selected={true},
+      abstract={
+            Multiple Description Coding (MDC) is an error-resilient source coding method designed 
+            for transmission over noisy channels. We present a novel MDC scheme employing a neural network based
+            on implicit neural representation. This involves overfitting the neural representation for images. 
+            Each description is transmitted along with model parameters and its respective latent spaces. 
+            Our method has advantages over traditional MDC that utilizes auto-encoders, such as eliminating the need for model training and offering high flexibility in redundancy adjustment. 
+            Experiments demonstrate that our solution is competitive with autoencoder-based MDC and classic MDC based on HEVC, delivering superior visual quality.
+      },
 }
-@article{le2023multiple,
-      title={Multiple description video coding for real-time applications using HEVC}, 
+@inproceedings{le2023multiple,
+      title={Multiple description video coding for real-time applications using HEVC},booktitle={ICIP},
       author={Trung Hieu Le and Marc Antonini and Marc Lambert and Karima Alioua},
       year={2023},
+      selected={true},
+      abstract={
+            Remote control vehicles require the transmission of large amounts of data, and video is one of the most important sources for the driver. 
+            To ensure reliable video transmission, the encoded video stream is transmitted simultaneously over multiple channels. 
+            However, this solution incurs a high transmission cost. To address this issue, it is necessary to use more efficient video encoding methods that can make the video stream robust to noise. 
+            Moreover it should have a less complexity to adapt to the real time requirement. In this paper, we propose a low-complexity, low-latency 2-channel Multiple Description Coding (MDC) solution with an adaptive Instantaneous Decoder Refresh (IDR) frame period, which is compatible with the HEVC standard with adaptive redundancy adjustment. 
+            This method shows a better resistance to high packet loss rates with lower complexity.
+      },
+      arxiv={2303.05843}
 }
 @inproceedings{le_antonini_lambert_alioua, 
  title={Codage vidéo à description multiple basé sur HEVC pour le pilotage de véhicules semi-autonomes}, booktitle={GRETSI}, 
- author={Le, Trung Hieu and Antonini, Marc and Lambert, Marc and Alioua, Karima}, url={http://gretsi.fr/data/colloque/pdf/2022_le917.pdf},
+ author={Le, Trung Hieu and Antonini, Marc and Lambert, Marc and Alioua, Karima}, 
+ website={http://gretsi.fr/data/colloque/pdf/2022_le917.pdf},
  year={2022}
 }
