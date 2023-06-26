@@ -9,8 +9,8 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>Laboratoire I3S</p>
-    <p>Office 126</p>
-    <p>2000 Routes des Lucioles</p>
+    <p> Euclide B,Office 126</p>
+    <p>2000 Route des Lucioles</p>
     <p>Biot,06410</p>
 
 news: false  # includes a list of news items

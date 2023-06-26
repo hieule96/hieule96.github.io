@@ -7,26 +7,34 @@
     #   value: 14th March 1879
     - name: Languages
       value: Vietnamese,English, French
-
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Best paper award for "Multiple description video coding for real-time applications using HEVC" at CORESA
 - title: Education
   type: time_table
   contents:
     - title: PhD in Image and Video Compression
-      institution: Laboratoire I3S, Université Côte d'Azur
+      institution: Laboratoire I3S, Université Côte d'Azur, 06410, Biot
       year: 2021-2023
       description:
         - Develop a multiple descriptions coding solution based on the HEVC standard.
         - Evaluate the developed solution using the ns-3 network simulator within a 802.11 channel model.
         - Develop a new compression method based on Implicit Neural Network
     - title: Diploma in Electrical Engineering (Equivalent to a Master's Degree)
-      institution: Polytech Nice Sophia
+      institution: Polytech Nice Sophia,06410,Biot
       year: 2015-2020
       description:
         - Signal and Image Processing
         - Electronic Circuit
         - Embedded System Design
+        - Real-Time System
+        - Embedded C/C++
+        - 'Graduation Grade: 15.08/20' 
     - title: French general Baccalauréat
-      institution: Jean de la Fontaine High School
+      institution: Jean de la Fontaine High School, 75016, Paris
       year: 2012-2025
       description:
 - title: Experience
@@ -60,10 +68,3 @@
         - Implement GPS communication using UART.
         - Study LoRa wireless communication technology.
         - Develop a prototype incorporating both technologies.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2023
-      items: 
-        - Best paper award for "Multiple description video coding for real-time applications using HEVC" at CORESA
