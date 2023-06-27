@@ -3,16 +3,18 @@
   contents:
     - name: Full Name
       value: Trung Hieu Le
-    # - name: Date of Birth
-    #   value: 14th March 1879
     - name: Languages
       value: Vietnamese,English, French
+    - name: Skills
+      value: Image and Video compression, C/C++ embedded, RTOS
 - title: Honors and Awards
   type: time_table
   contents:
     - year: 2023
-      items: 
-        - Best paper award for "Multiple description video coding for real-time applications using HEVC" at CORESA
+      url: https://coresa2023.sciencesconf.org/
+      title: 
+        - Best paper award for "Multiple description video coding for real-time applications using HEVC"
+      institution: CORESA 2023 - Université de Lille
 - title: Education
   type: time_table
   contents:
@@ -26,13 +28,14 @@
     - title: Diploma in Electrical Engineering (Equivalent to a Master's Degree)
       institution: Polytech Nice Sophia,06410,Biot
       year: 2015-2020
+      url: https://www.smartcertificate.com/SmartDiploma/Default.aspx?1%7ce74e51f1-8522-4f8f-b38b-c80b3cc887e2%7c9b23242d-1585-4235-9aa8-402943326fa0
       description:
         - Signal and Image Processing
         - Electronic Circuit
         - Embedded System Design
         - Real-Time System
         - Embedded C/C++
-        - 'Graduation Grade: 15.08/20' 
+      result: 'Graduation grade: 15.08/20'
     - title: French general Baccalauréat
       institution: Jean de la Fontaine High School, 75016, Paris
       year: 2012-2025
@@ -50,6 +53,7 @@
         - Explore the performance of JPEG encoding using both hardware and software solutions.
         - Understand the software architecture of products within the enterprise.
         - Manage resource utilization in embedded systems.
+      result: 'Result: increase the number of images transmitted per second from 3 to 15.'
     - title: Summer Intern-Recognition of the origin of fruits / vegetables
       institution: Da Nang University, Da Nang, Viet Nam
       year: 2019
@@ -59,8 +63,7 @@
         - Explore feature extraction techniques for signals from spectrometers.
         - Develop a dataset of fruits and vegetables specific to the regions.
         - Experiment with various machine learning algorithms.
-        - Evaluate and analyze the results.
-        - A preliminary machine learning prototype with 80% accuracy in detection.
+      result: 'Result: A preliminary machine learning prototype with 80% accuracy in detection.'
     - title: Research Assistant-LORA GPS Tracking
       institution: Da Nang University, Da Nang, Viet Nam
       year: 2018
