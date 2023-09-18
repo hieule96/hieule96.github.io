@@ -22,9 +22,10 @@
       institution: Laboratoire I3S, Université Côte d'Azur, 06410, Biot
       year: 2021-2023
       description:
-        - Develop a multiple descriptions coding solution based on the HEVC standard.
-        - Evaluate the developed solution using the ns-3 network simulator within a 802.11 channel model.
-        - Develop a new compression method based on Implicit Neural Network
+        - The primary contributor to the development of a new image compression method based on neural networks using Pytorch for DNA data storage.
+        - The primary developer of a multiple-description coding solution based on the HEVC standard, implemented in C++.
+        - Benchmark the developed solution using the ns-3 network simulator under a wireless channel model.
+        - Result:The first neural compression method that currently stands as the state of the art for DNA data storage in terms of rate-distortion performance. Resilience to the noise by 3dB compared to classic image compression.
     - title: Diploma in Electrical Engineering (Equivalent to a Master's Degree)
       institution: Polytech Nice Sophia,06410,Biot
       year: 2015-2020
