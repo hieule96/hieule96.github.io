@@ -11,6 +11,11 @@
   type: time_table
   contents:
     - year: 2023
+      url: https://attend.ieee.org/mmsp-2023/
+      title: 
+        - Best paper award for "INR-MDSQC-Implicit Neural Representation Multiple Description Scalar Quantization for robust image Coding"
+      institution: IEEE MMSP 2023
+    - year: 2023
       url: https://coresa2023.sciencesconf.org/
       title: 
         - Best paper award for "Multiple description video coding for real-time applications using HEVC"
